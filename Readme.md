@@ -15,6 +15,7 @@ It provides CRUD operations, department-based listing, average salary, and skill
 
 ## APIs Documentation
 | 🧪 Postman Docs     | [View API Documentation](https://documenter.getpostman.com/view/39785896/2sB3HoqKkK) |
+| or Swagger UI       | [Swagger APIs Docs](http://127.0.0.1:8000/docs) |
 
 ## Setup Instructions
 1. Clone the repo:
@@ -46,3 +47,11 @@ It provides CRUD operations, department-based listing, average salary, and skill
 - `GET` /employees?department=xyz → List employees by department
 - `GET` /employees/avg-salary → Average salary by department
 - `GET` /employees/search?skill=python → Search employees by skill
+
+
+## ✅ Features
+- Create, Read, Update, Delete employees
+- Department-based listing
+- Average salary calculation by department
+- Skill-based search
+- Async MongoDB operations for faster performance
