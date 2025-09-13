@@ -13,6 +13,9 @@ It provides CRUD operations, department-based listing, average salary, and skill
 
 ---
 
+## APIs Documentation
+| 🧪 Postman Docs     | [View API Documentation](https://documenter.getpostman.com/view/39785896/2sB3HoqKkK) |
+
 ## Setup Instructions
 1. Clone the repo:
    ```bash
