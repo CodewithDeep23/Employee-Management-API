@@ -1,6 +1,5 @@
 # Employee Management API (FastAPI + MongoDB)
-
-This project is a solution to the LLUMO AI Junior SDE-I Assessment.  
+ 
 It provides CRUD operations, department-based listing, average salary, and skill-based search for employees.
 
 ---
